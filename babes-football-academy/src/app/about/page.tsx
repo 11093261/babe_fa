@@ -5,7 +5,7 @@ export default function About() {
       <h1 className="text-4xl font-bold text-center mb-6 text-green-700">About Us</h1>
       <div className="prose prose-lg mx-auto">
         <p>
-          Babes Football Academy was founded in 2010 with a simple mission: to provide
+          Babes Football Academy was founded in 2026 with a simple mission: to provide
           high‑quality football training in a positive, inclusive environment. We believe
           that every child has the potential to shine, both on and off the pitch.
         </p>
